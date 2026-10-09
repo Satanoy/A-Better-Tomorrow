@@ -1,0 +1,16 @@
+<ModOps>
+  	<ModOp Type="add" Path="/TextExport/Texts">
+    		<Text>
+      			<GUID>1957006161</GUID>
+      			<Text>Silver Coins</Text>
+    		</Text>
+    		<Text>
+      			<GUID>1957006261</GUID>
+      			<Text>What can you buy from?</Text>
+    		</Text>
+    		<Text>
+      			<GUID>1957006163</GUID>
+      			<Text>Fake Factory Silver Coins (no translation needed)</Text>
+    		</Text>
+  	</ModOp>
+</ModOps>

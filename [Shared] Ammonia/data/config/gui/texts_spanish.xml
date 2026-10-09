@@ -1,0 +1,12 @@
+<ModOps>
+  	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>1957006121</GUID>
+			<Text>Amoníaco</Text>
+		</Text>
+		<Text>
+			<GUID>1957006221</GUID>
+			<Text>¡Cúbrete la nariz, es muy ácido!</Text>
+		</Text>
+  	</ModOp>
+</ModOps>

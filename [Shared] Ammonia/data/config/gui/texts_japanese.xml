@@ -1,0 +1,12 @@
+<ModOps>
+  	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>1957006121</GUID>
+			<Text>アンモニア</Text>
+		</Text>
+		<Text>
+			<GUID>1957006221</GUID>
+			<Text>鼻を覆ってください。強烈な酸性です！</Text>
+		</Text>
+  	</ModOp>
+</ModOps>

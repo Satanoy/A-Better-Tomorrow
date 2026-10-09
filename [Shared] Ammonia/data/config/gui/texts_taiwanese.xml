@@ -1,0 +1,12 @@
+<ModOps>
+  	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>1957006121</GUID>
+			<Text>氨</Text>
+		</Text>
+		<Text>
+			<GUID>1957006221</GUID>
+			<Text>摀住鼻子－真的很酸！</Text>
+		</Text>
+  	</ModOp>
+</ModOps>

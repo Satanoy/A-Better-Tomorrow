@@ -1,0 +1,20 @@
+{
+    "Version": "1.0",
+    "ModID": "Shared_Ammonia_Tisogno",
+
+    "Category": {
+      	"English": "Product",
+	"German":  "Produkt"
+    },
+
+    "ModName": {
+      	"English": "Ammonia",
+	"German":  "Ammoniak"
+    },
+
+  "Description": {
+    "English": "file::readme_english.md"
+  },
+
+    "CreatorName": "Tisogno"
+}
