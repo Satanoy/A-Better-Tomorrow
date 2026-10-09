@@ -1,0 +1,842 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+  <!-- Products-->
+    <!-- START ADD GOOD - Inteligencia Doméstica -->
+    <Text>
+      <GUID>1889000157</GUID>
+      <Text>Inteligencia Doméstica</Text>
+    </Text>
+    <Text>
+      <GUID>1889000158</GUID>
+      <Text>Anticipa amenazas sociales mediante vigilancia constante de la vida cotidiana.</Text>
+    </Text>
+    <!-- START GOOD - Equipo militar -->
+    <Text>
+      <GUID>1889000159</GUID>
+      <Text>Equipo Militar</Text>
+    </Text>
+    <Text>
+      <GUID>1889000160</GUID>
+      <Text>Equipamiento al servicio del orden armado.</Text>
+    </Text>
+    <!-- START GOOD - Oficiales de inteligencia -->
+    <Text>
+      <GUID>1889000161</GUID>
+      <Text>Oficiales de inteligencia</Text>
+    </Text>
+    <Text>
+      <GUID>1889000162</GUID>
+      <Text>Transforman rumores y conductas en informes de seguridad operativa.</Text>
+    </Text>
+    <!-- START GOOD - Prendas de Regulación Térmica -->
+    <Text>
+      <GUID>1889000173</GUID>
+      <Text>Prendas de Regulación Térmica</Text>
+    </Text>
+    <Text>
+      <GUID>1889000174</GUID>
+      <Text>Indumentaria funcional destinada a estabilizar la temperatura corporal del usuario en condiciones ambientales adversas.</Text>
+    </Text>
+    <!-- START GOOD - Alimentos procesados -->
+    <Text>
+      <GUID>1889000179</GUID>
+      <Text>Alimentos procesados</Text>
+    </Text>
+    <Text>
+      <GUID>1889000180</GUID>
+      <Text>Comida industrial producida en masa para abastecer poblaciones en entornos altamente urbanizados.</Text>
+    </Text>
+    <!-- START GOOD - Unidad de Infusión Térmica-->
+    <Text>
+      <GUID>1889000195</GUID>
+      <Text>Unidad de Infusión Térmica</Text>
+    </Text>
+    <Text>
+      <GUID>1889000194</GUID>
+      <Text>Sistema automatizado de calentamiento y preparación de bebidas por infusión.</Text>
+    </Text>
+    <!-- START GOOD - Partes del Autómata-->
+    <Text>
+      <GUID>1889000199</GUID>
+      <Text>Partes del Autómata</Text>
+    </Text>
+    <Text>
+      <GUID>1889000200</GUID>
+      <Text>Componentes estandarizados para la fabricación y mantenimiento de Autómatas.</Text>
+    </Text>
+    <!-- START GOOD - Autómatas-->
+    <Text>
+      <GUID>1889000204</GUID>
+      <Text>Autómatas</Text>
+    </Text>
+    <Text>
+      <GUID>1889000205</GUID>
+      <Text>Máquinas complejas destinadas a la automatización de procesos laborales y operativos.</Text>
+    </Text>
+    <!-- START GOOD - Estabilización-->
+    <Text>
+      <GUID>1889000216</GUID>
+      <Text>Estabilización</Text>
+    </Text>
+    <Text>
+      <GUID>1889000217</GUID>
+      <Text>Tratamiento estatal continuo que garantiza longevidad y bienestar mediante una medicación estandarizada.</Text>
+    </Text>
+    <!-- START GOOD - Homologación-->
+    <Text>
+      <GUID>1889000221</GUID>
+      <Text>Homologación</Text>
+    </Text>
+    <Text>
+      <GUID>1889000222</GUID>
+      <Text>Proceso estatal que valida y estandariza las competencias individuales según los criterios oficiales del sistema tecnocrático.</Text>
+    </Text>
+    <!-- START GOOD - Normalización-->
+    <Text>
+      <GUID>1889000226</GUID>
+      <Text>Normalización</Text>
+    </Text>
+    <Text>
+      <GUID>1889000227</GUID>
+      <Text>Programa institucional que ajusta la conducta colectiva a los patrones oficiales de orden y convivencia.</Text>
+    </Text>
+    <!-- START GOOD - Unidad Informativa-->
+    <Text>
+      <GUID>1889000241</GUID>
+      <Text>Unidad Informativa</Text>
+    </Text>
+    <Text>
+      <GUID>1889000242</GUID>
+      <Text>Servicio de telecomunicaciones que transmite información oficial estandarizada.</Text>
+    </Text>
+
+  <!-- Services-->
+    <!-- START BUILDING - Comando de Regulación Social -->
+    <Text>
+      <GUID>1889000163</GUID>
+      <Text>Comando de Regulación Social</Text>
+    </Text>
+    <!-- START BUILDING - Oficina de Regulación Social-->
+    <Text>
+      <GUID>1889000164</GUID>
+      <Text>Oficina de Regulación Social</Text>
+    </Text>
+    <!-- START BUILDING - Centro de Estabilización Humana-->
+    <Text>
+      <GUID>1889000215</GUID>
+      <Text>Centro de Estabilización Humana</Text>
+    </Text>
+    <!-- START BUILDING - Ministerio de Certificación-->
+    <Text>
+      <GUID>1889000220</GUID>
+      <Text>Ministerio de Certificación</Text>
+    </Text>
+    <!-- START BUILDING - Ministerio de Normalización Social-->
+    <Text>
+      <GUID>1889000225</GUID>
+      <Text>Ministerio de Normalización Social</Text>
+    </Text>
+    <!-- START BUILDING - Ministerio de Telecomunicaciones-->
+    <Text>
+      <GUID>1889000240</GUID>
+      <Text>Ministerio de Telecomunicaciones</Text>
+    </Text>
+    <!-- START BUILDING - Nuke plant-->
+    <Text>
+      <GUID>1889000275</GUID>
+      <Text>Planta de Energía Nuclear</Text>
+    </Text>
+     <Text>
+      <GUID>1889000276</GUID>
+      <Text>Infraestructura estratégica destinada a la producción masiva de energía mediante reacciones nucleares estabilizadas.</Text>
+    </Text>
+
+  <!-- Prod Buildings-->
+    <!-- START BUILDING - Fábrica de equipos para agentes del orden -->
+    <Text>
+      <GUID>1889000167</GUID>
+      <Text>Fábrica de equipos para agentes del orden</Text>
+    </Text>
+    <!-- START BUILDING - Agencia de Gestión del Orden-->
+    <Text>
+      <GUID>1889000168</GUID>
+      <Text>Agencia de Gestión del Orden</Text>
+    </Text>
+    <!-- START BUILDING - Fábrica de Vestimenta Funcional-->
+    <Text>
+      <GUID>1889000172</GUID>
+      <Text>Fábrica de Vestimenta Funcional</Text>
+    </Text>
+    <!-- START BUILDING - Processed food factory-->
+    <Text>
+      <GUID>1889000178</GUID>
+      <Text>Fábrica de alimentos procesados</Text>
+    </Text>
+    <!-- START BUILDING - Planta de Biomasa-->
+    <Text>
+      <GUID>1889000181</GUID>
+      <Text>Planta de Biomasa</Text>
+    </Text>
+    <!-- START BUILDING - Piscinas de Cultivo de Algas-->
+    <Text>
+      <GUID>1889000182</GUID>
+      <Text>Piscinas de Cultivo de Algas</Text>
+    </Text>
+    <!-- START BUILDING - Alto Horno de Tungsteno -->
+    <Text>
+      <GUID>1889000193</GUID>
+      <Text>Alto Horno de Tungsteno</Text>
+    </Text>
+    <!-- START BUILDING - Fábrica de Unidades de Infusión Térmica -->
+    <Text>
+      <GUID>1889000196</GUID>
+      <Text>Fábrica de Unidades de Infusión Térmica</Text>
+    </Text>
+    <!-- START BUILDING - Fábrica de piezas de autómatas -->
+    <Text>
+      <GUID>1889000201</GUID>
+      <Text>Fábrica de piezas de autómatas</Text>
+    </Text>
+    <!-- START BUILDING - Planta de ensamblaje de Automatas-->
+    <Text>
+      <GUID>1889000206</GUID>
+      <Text>Planta de ensamblaje de Automatas</Text>
+    </Text>
+    <!-- START BUILDING - Fábrica Avanzada de Filamentos de Carbono-->
+    <Text>
+      <GUID>1889000249</GUID>
+      <Text>Fábrica Avanzada de Filamentos de Carbono</Text>
+    </Text>
+    <!-- START BUILDING - Synthetic Fabric Factory-->
+    <Text>
+      <GUID>1889000322</GUID>
+      <Text>Fábrica de tejidos sintéticos</Text>
+    </Text>
+    <!-- START BUILDING - Mecánica de Precisión -->
+    <Text>
+      <GUID>1889000325</GUID>
+      <Text>Mecánica de Precisión</Text>
+    </Text>
+     <!-- START BUILDING - Planta de Conservas -->
+    <Text>
+      <GUID>1889000327</GUID>
+      <Text>Planta de Conservas </Text>
+    </Text>
+
+  <!-- ADB Chemo plants-->
+    <Text>
+      <GUID>1889000250</GUID>
+      <Text>Planta Química Avanzada: Etanol</Text>
+    </Text>
+    <Text>
+      <GUID>1889000252</GUID>
+      <Text>Planta Química Avanzada: Amoniaco</Text>
+    </Text>
+    <Text>
+      <GUID>1889000252</GUID>
+      <Text>Planta Química Avanzada: Cianuro</Text>
+    </Text>
+    <Text>
+      <GUID>1889000319</GUID>
+      <Text>Planta química de viscosa</Text>
+    </Text>
+    <Text>
+      <GUID>1889000320</GUID>
+      <Text>Planta química de Glicerina</Text>
+    </Text>
+    <Text>
+      <GUID>1889000321</GUID>
+      <Text>Sintetizador de Reactivos</Text>
+    </Text>
+    <Text>
+      <GUID>1889000318</GUID>
+      <Text>Planta Química Intermedia</Text>
+    </Text>
+    <Text>
+      <GUID>1889000323</GUID>
+      <Text>Planta Química Avanzada: Celuloide</Text>
+    </Text>
+    <Text>
+      <GUID>1889000324</GUID>
+      <Text>Convertidor de Desechos de la Megaciudad </Text>
+    </Text>
+
+
+  <!-- Mines-->
+   <!-- START BUILDING - Mina de Tungsteno -->
+    <Text>
+      <GUID>1889000185</GUID>
+      <Text>Mina de Tungsteno</Text>
+    </Text>
+    <!-- START BUILDING - Mina de Uranio -->
+    <Text>
+      <GUID>1889000188</GUID>
+      <Text>Mina de Uranio</Text>
+    </Text>
+    <!-- START BUILDING - Pozo de Cromo -->
+    <Text>
+      <GUID>1889000370</GUID>
+      <Text>Pozo de Cromo</Text>
+    </Text>
+    <!-- START BUILDING - Pozo de Tungsteno -->
+    <Text>
+      <GUID>1889000371</GUID>
+      <Text>Pozo de Tungsteno</Text>
+    </Text>
+  
+  <!-- Prod Chains-->
+    <!-- START CHAIN - Comando de Regulación Social-->
+    <Text>
+      <GUID>1889000169</GUID>
+      <Text>Comando de Regulación Social</Text>
+    </Text>
+    <!-- START BUILDING - Fábrica de Vestimenta Funcional-->
+    <Text>
+      <GUID>1889000175</GUID>
+      <Text>Fábrica de Vestimenta Funcional</Text>
+    </Text>
+    <!-- START BUILDING - Alto Horno de Tungsteno-->
+    <Text>
+      <GUID>1889000298</GUID>
+      <Text>Alto Horno de Tungsteno</Text>
+    </Text>
+    <!-- START BUILDING - Alimentos Procesados-->
+    <Text>
+      <GUID>1889000299</GUID>
+      <Text>Alimentos Procesados</Text>
+    </Text>
+    <!-- START BUILDING - Ensamblaje de Automatas-->
+    <Text>
+      <GUID>1889000305</GUID>
+      <Text>Ensamblaje de Automatas</Text>
+    </Text>
+    <!-- START BUILDING - Mecánica de Precisión -->
+    <Text>
+      <GUID>1889000326</GUID>
+      <Text>Mecánica de Precisión</Text>
+    </Text>
+    <!-- START BUILDING - Planta de Conservas -->
+    <Text>
+      <GUID>1889000328</GUID>
+      <Text>Planta de Conservas</Text>
+    </Text>
+
+  <!-- Buff factors-->
+    <!-- START BUILDING - Tanque de Enfriamiento-->
+    <Text>
+      <GUID>1889000280</GUID>
+      <Text>Tanque de Enfriamiento</Text>
+    </Text>
+    <Text>
+      <GUID>1889000281</GUID>
+      <Text>Este tanque disipa el calor residual del reactor y debe ser construido cerca de la Planta Nuclear para evitar el recalentamiento del núcleo.</Text>
+    </Text>
+    <!-- START BUILDING - Púlpito Algorítmico-->
+    <Text>
+      <GUID>1889000291</GUID>
+      <Text>Púlpito Algorítmico</Text>
+    </Text>
+    <Text>
+      <GUID>1889000292</GUID>
+      <Text>Un oráculo que guía a la población con cálculos infalibles, optimizando la vida urbana mediante directrices perfectamente razonadas.</Text>
+    </Text>
+    <!-- START BUILDING - Módulo de Optimización Agrícola -->
+    <Text>
+      <GUID>1889000372</GUID>
+      <Text>Módulo de Optimización Agrícola</Text>
+    </Text>
+    <!-- START BUILDING - Módulo de Optimización Ganadera -->
+    <Text>
+      <GUID>1889000375</GUID>
+      <Text>Módulo de Optimización Ganadera</Text>
+    </Text>
+
+  <!-- Menus-->
+    <!-- Tecnócratas; Habitacion, servicios e industria -->
+    <Text>
+      <GUID>1889000176</GUID>
+      <Text>Tecnócratas</Text>
+    </Text>
+    <!-- Technocrats; Industry-->
+    <Text>
+      <GUID>1889000177</GUID>
+      <Text>Tecnócratas; Industria </Text>
+    </Text>
+    <!-- Technocrats; Chemical Plants-->
+    <Text>
+      <GUID>1889000251</GUID>
+      <Text>Tecnócratas; Plantas Químicas</Text>
+    </Text>
+    <!-- START BUILDING - Nuke plant-->
+    <Text>
+      <GUID>1889000279</GUID>
+      <Text>Planta de Energía Nuclear</Text>
+    </Text>
+
+  <!-- tecnócrata y otros -->
+    <!-- fuerza laboral tecnócrata-->
+    <Text>
+      <GUID>1889000256</GUID>
+      <Text>Tecnócrata</Text>
+    </Text>
+    <!-- tecnócrata -->
+    <Text>
+      <GUID>1889000257</GUID>
+      <Text>Fuerza Laboral Tecnócrata</Text>
+    </Text>
+    <!-- residencia tecnócratanivel 1 -->
+    <Text>
+      <GUID>1889000258</GUID>
+      <Text>Residencia Tecnócrata Nivel 1</Text>
+    </Text>
+    <Text>
+      <GUID>1889000259</GUID>
+      <Text>Complejo habitacional estandarizado destinado a técnocratas certificados.</Text>
+    </Text>
+    <!-- tecnócrata recidence lvl 2-->   
+    <Text>
+      <GUID>1889000260</GUID>
+      <Text>Residencia Tecnócrata Nivel 2</Text>
+    </Text>
+    <Text>
+      <GUID>1889000261</GUID>
+      <Text>Residencia avanzada para tecnócratas homologados, equipada con sistemas de control ambiental y rutinas automatizadas.</Text>
+    </Text>
+
+    <!-- Tecnócrata mood-->  
+    <Text>
+      <GUID>1889000262</GUID>
+      <Text>Tecnócrata enojado</Text>
+    </Text>
+    <Text>
+      <GUID>1889000263</GUID>
+      <Text>Tecnócrata Infeliz</Text>
+    </Text>
+    <Text>
+      <GUID>1889000264</GUID>
+      <Text>Tecnócrata Neutro</Text>
+    </Text>
+    <Text>
+      <GUID>1889000265</GUID>
+      <Text>Tecnócrata feliz</Text>
+    </Text>
+    <Text>
+      <GUID>1889000266</GUID>
+      <Text>Tecnócrata eufórico</Text>
+    </Text>
+
+  <!-- Pools-->
+    <!-- TODOS los Servicios Públicos Tecnócrata -->
+    <Text>
+      <GUID>1889000234</GUID>
+      <Text>TODOS los Servicios Públicos Tecnócrata</Text>
+    </Text>
+    <!-- ALL Technocrat Production Buildings -->
+    <Text>
+      <GUID>1889000235</GUID>
+      <Text>TODOS los edificios de producción de tecnócratas</Text>
+    </Text>
+    <!-- TODAS las Plantas Químicas Avanzadas -->
+    <Text>
+      <GUID>1889000237</GUID>
+      <Text>TODAS las Plantas Químicas Avanzadas</Text>
+    </Text>
+    <!-- TODAS las Residencias Tecnócratas -->
+    <Text>
+      <GUID>1889000236</GUID>
+      <Text>TODAS las Residencias Tecnócratas</Text>
+    </Text>
+
+  <!-- START BUFF-->
+    <!-- surveillance-->
+    <Text>
+      <GUID>1889000213</GUID>
+      <Text>Vigilancia</Text>
+    </Text>
+    <Text>
+      <GUID>1889000214</GUID>
+      <Text>Vigilancia</Text>
+    </Text>
+    <!-- Supervisión Permanente del Estado-->
+    <Text>
+      <GUID>1889000165</GUID>
+      <Text>Supervisión Permanente del Estado</Text>
+    </Text>
+    <Text>
+      <GUID>1889000166</GUID>
+      <Text>El Estado extiende su supervisión sobre cada aspecto de la vida productiva y civil y la eficiencia aumenta bajo normas estrictas y vigilancia constante.</Text>
+    </Text>
+    <!-- Contaminación Radiológica Operativa-->
+    <Text>
+      <GUID>1889000189</GUID>
+      <Text>Contaminación Radiológica Operativa</Text>
+    </Text>
+    <Text>
+      <GUID>1889000190</GUID>
+      <Text>Efecto sanitario adverso causado por la actividad mineria de uranio, que eleva el riesgo de enfermedad y la inestabilidad social en áreas habitadas.</Text>
+    </Text>
+    <!-- Protocolo de Sincronización Industrial-->
+    <Text>
+      <GUID>1889000211</GUID>
+      <Text>Protocolo de Sincronización Industrial</Text>
+    </Text>
+    <Text>
+      <GUID>1889000212</GUID>
+      <Text>La cercanía entre ambas instalaciones permite la sincronización directa de procesos, incrementando la eficiencia global de manufactura de Autómatas.</Text>
+    </Text>
+    <!-- Homeostasis Dirigida-->
+    <Text>
+      <GUID>1889000218</GUID>
+      <Text>Homeostasis Dirigida</Text>
+    </Text>
+    <Text>
+      <GUID>1889000219</GUID>
+      <Text>Equilibrio biológico inducido que reduce el estrés social y optimiza la estabilidad de la población.</Text>
+    </Text>
+    <!-- Régimen de Homologación-->
+    <Text>
+      <GUID>1889000223</GUID>
+      <Text>Régimen de Homologación</Text>
+    </Text>
+    <Text>
+      <GUID>1889000224</GUID>
+      <Text>La Homologación oficial impone criterios únicos de conocimiento y comportamiento aceptable.</Text>
+    </Text>
+    <!-- Conformidad Programada-->
+    <Text>
+      <GUID>1889000228</GUID>
+      <Text>Conformidad Programada</Text>
+    </Text>
+    <Text>
+      <GUID>1889000229</GUID>
+      <Text>La conducta colectiva es alineada con los parámetros oficiales, reduciendo la conflictividad y reforzando la obediencia social.</Text>
+    </Text>
+    <!-- Alineación Comunicacional-->
+    <Text>
+      <GUID>1889000243</GUID>
+      <Text>Alineación Comunicacional</Text>
+    </Text>
+    <Text>
+      <GUID>1889000244</GUID>
+      <Text>La red informativa estatal reduce la disidencia y mejora la eficiencia social al mantener a la población tecnócrata permanentemente sincronizada con los protocolos oficiales.</Text>
+    </Text>
+    <!-- Recalentamiento del Núcleo-->
+    <Text>
+      <GUID>1889000277</GUID>
+      <Text>Recalentamiento del Núcleo</Text>
+    </Text>
+    <Text>
+      <GUID>1889000278</GUID>
+      <Text>La acumulación de calor residual reduce la eficiencia del reactor y aumenta el riesgo operativo si no se gestiona mediante sistemas de enfriamiento adecuados.</Text>
+    </Text>
+    <!-- Recalentamiento del Núcleo-->
+    <Text>
+      <GUID>1889000282</GUID>
+      <Text>Enfriamiento del Núcleo</Text>
+    </Text>
+    <Text>
+      <GUID>1889000283</GUID>
+      <Text>Reduce la temperatura operativa del reactor, restaurando su eficiencia y evitando el recalentamiento crítico cuando es construido cerca de la Planta Nuclear.</Text>
+    </Text>
+    <!-- Directrices Algorítmicas-->
+    <Text>
+      <GUID>1889000293</GUID>
+      <Text>Directrices Algorítmicas</Text>
+    </Text>
+    <Text>
+      <GUID>1889000294</GUID>
+      <Text>Los ciudadanos siguen las recomendaciones del Púlpito Algorítmico, reduciendo la dependencia de autómatas y coordinando el trabajo humano con eficiencia casi mecánica.</Text>
+    </Text>
+    <!-- Agricultura Intensiva-->
+    <Text>
+      <GUID>1889000373</GUID>
+      <Text>Agricultura Intensiva</Text>
+    </Text>
+    <Text>
+      <GUID>1889000374</GUID>
+      <Text>Cada cultivo recibe exactamente lo necesario para producir al máximo; la naturaleza ha sido corregida para garantizar cosechas uniformes y abundantes.</Text>
+    </Text>
+    <!-- Ganadería Controlada-->
+    <Text>
+      <GUID>1889000376</GUID>
+      <Text>Ganadería Controlada</Text>
+    </Text>
+    <Text>
+      <GUID>1889000377</GUID>
+      <Text>Alimentación, medicamentos y compuestos químicos mantienen a los animales en un ciclo constante de producción, donde toda desviación es corregida.</Text>
+    </Text>
+  <!-- popup messages-->
+    <Text>
+      <GUID>1889000273</GUID>
+      <Text>&lt;br /&gt;&lt;br /&gt;&lt;font size="24"&gt;&lt;b&gt;Implementación del Sistema de Vigilancia Cívica&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;&lt;br /&gt;&lt;font size="22"&gt;Ante el aumento de la criminalidad y diversas conductas incívicas,&lt;br /&gt;el Estado Mayor ha autorizado la implementación del Sistema de Vigilancia Cívica.&lt;br /&gt;Diseñado para preservar la libertad, el orden y la seguridad de la población, este programa permitirá observar, registrar y corregir desviaciones sociales antes de que alteren la estabilidad colectiva.&lt;br /&gt;La vigilancia constante garantizará que cada ciudadano continúe contribuyendo al bienestar común.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;El Estado Mayor&lt;/b&gt;&lt;/font&gt;</Text>
+    </Text>
+
+    <Text>
+      <GUID>1889000295</GUID>
+      <Text>&lt;br /&gt;&lt;br /&gt;&lt;font size="24"&gt;&lt;b&gt;Emergencia de una Nueva Clase Técnica&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;&lt;br /&gt;&lt;font size="22"&gt;En respuesta a las crecientes demandas de eficiencia administrativa y gestión científica, ha comenzado a consolidarse una nueva clase de especialistas: los Tecnócratas.&lt;br /&gt;Formados en disciplinas técnicas y sistemas avanzados de planificación, estos profesionales asumirán responsabilidades clave en la organización de la producción, la supervisión de infraestructuras críticas y la optimización de los servicios públicos.&lt;br /&gt;Las autoridades esperan que su enfoque racional y metódico contribuya a una sociedad más ordenada, estable y predecible.&lt;br /&gt;Diversos organismos estatales ya han comenzado a adaptar sus estructuras para integrar plenamente a estos nuevos gestores del progreso.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;El Estado Mayor&lt;/b&gt;&lt;/font&gt;</Text>
+    </Text>
+
+  <!-- START SPECIALIST -->
+    <!-- START SPECIALIST- Officer Kim Seo-yeon, Ingeniera del Aparato de la Obediencia-->
+    <Text>
+      <GUID>1889000132</GUID>
+      <Text>Officer Kim Seo-yeon, Ingeniera del Aparato de la Obediencia</Text>
+    </Text>
+    <Text>
+      <GUID>1889000133</GUID>
+      <Text>Entrenado en academias donde la obediencia se mide en números, Kim se encarga de garantizar que las fábricas que abastecen a las fuerzas del orden funcionen como un reloj, sin retrasos, interrupciones ni errores. Todo debe funcionar a la perfección bajo su atenta mirada.</Text>
+    </Text>
+    <!-- START SPECIALIST- Park Min-ji, Encargada de Equipamiento Normativo -->
+    <Text>
+      <GUID>1889000134</GUID>
+      <Text>Park Min-ji, Encargada de Equipamiento Normativo</Text>
+    </Text>
+    <Text>
+      <GUID>1889000135</GUID>
+      <Text>Park Min-ji dirige la fabricación como si fuera un desfile: cada puntada es una orden cumplida. Bajo su supervisión, la indumentaria militar deja de ser vestimenta y se convierte en doctrina portable. No tolera variaciones, adornos ni retrasos; la eficiencia se cose a mano firme.</Text>
+    </Text>
+    <!-- START SPECIALIST- Officer Choi Eun-ha, Administradora de la Cadena de Mando -->
+    <Text>
+      <GUID>1889000136</GUID>
+      <Text>Officer Choi Eun-ha, Administradora de la Cadena de Mando</Text>
+    </Text>
+    <Text>
+      <GUID>1889000137</GUID>
+      <Text>Choi Eun-ha no recluta personas: selecciona voluntades aptas para ser moldeadas. En sus centros, el mérito se mide en resistencia, silencio y capacidad de obedecer sin comprender. Bajo su dirección, los oficiales surgen más rápido, más firmes y menos cuestionadores.</Text>
+    </Text>
+    <!-- START SPECIALIST- Teniente Han Ji-won, Delegada militar del orden y vigilancia -->
+    <Text>
+      <GUID>1889000138</GUID>
+      <Text>Teniente Han Ji-won, Delegada militar del orden y vigilancia</Text>
+    </Text>
+    <Text>
+      <GUID>1889000139</GUID>
+      <Text>Como delegada militar del orden, Han hace cumplir la ley antes de que sea pronunciada. Su presencia convierte cada residencia en un punto fiscal y cada ciudadano en un registro. Los impuestos fluyen con puntualidad marcial, y la criminalidad se retrae por puro instinto de supervivencia.</Text>
+    </Text>
+    <!-- START SPECIALIST- Aviso Oficial de Observación Estatal -->
+    <Text>
+      <GUID>1889000140</GUID>
+      <Text>Aviso Oficial de Observación Estatal</Text>
+    </Text>
+    <Text>
+      <GUID>1889000141</GUID>
+      <Text>Este cartel recuerda a la población que la vigilancia no descansa. Su presencia transforma calles y residencias en espacios supervisados. No impone órdenes explícitas: basta con ser visto para obedecer. La seguridad aumenta, mientras la confianza desaparece silenciosamente.</Text>
+    </Text>
+    <!-- START SPECIALIST- Ace Pilot Ryu Hae-in, Operadora de Supremacía Aérea -->
+    <Text>
+      <GUID>1889000142</GUID>
+      <Text>Ace Pilot Ryu Hae-in, Operadora de Supremacía Aérea</Text>
+    </Text>
+    <Text>
+      <GUID>1889000143</GUID>
+      <Text>Ryu Hae-in domina el combate aéreo como un ejercicio matemático de superioridad. Para ella, las aeronaves no son extensiones disciplinadas de la doctrina militar. El enemigo rara vez la ve; solo percibe el fallo antes del impacto. En el cielo que controla, la guerra se decide en silencio.</Text>
+    </Text>
+    <!-- START SPECIALIST- Officer Jang Soo-min, Supervisora del Perímetro Costero-->
+    <Text>
+      <GUID>1889000144</GUID>
+      <Text>Officer Jang Soo-min, Supervisora del Perímetro Costero</Text>
+    </Text>
+    <Text>
+      <GUID>1889000145</GUID>
+      <Text>Jang Soo-min considera la costa una línea sagrada que no debe cederse. Bajo su mando, las torres de defensa marina operan con precisión cronometrada y fuego constante. Cada disparo es un mensaje: el acceso está negado antes de ser solicitado. La vigilancia que impone no descansa, ni siquiera en tiempos de calma.</Text>
+    </Text>
+    <!-- START SPECIALIST- General Lee Seong-hwa, Puño de Acero-->
+    <Text>
+      <GUID>1889000146</GUID>
+      <Text>General Lee Seong-hwa, Puño de Acero</Text>
+    </Text>
+    <Text>
+      <GUID>1889000147</GUID>
+      <Text>Lee Seong-hwa runs the steel industry like a relentless campaign. Under his authority, the furnaces never shut down and the production lines never rest. Steel flows with the regularity of a marching army. Efficiency increases, while human attrition becomes an acceptable statistic.</Text>
+    </Text>
+    <!-- START SPECIALIST- Lieutenant Yoon Ara, Ingeniera Militar-->
+    <Text>
+      <GUID>1889000148</GUID>
+      <Text>Lieutenant Yoon Ara, Ingeniera Militar</Text>
+    </Text>
+    <Text>
+      <GUID>1889000149</GUID>
+      <Text>Yoon Ara entiende la construcción como una forma de ocupación duradera.  Bajo su supervisión, ladrillos y concreto se producen con ritmo marcial. Cada pieza está pensada para resistir. La ciudad crece más rápido, más sólida y menos flexible. Lo que ella edifica no invita a vivir: garantiza que nada se mueva.</Text>
+    </Text>
+    <!-- START SPECIALIST- Lieutenant Seo Jin-ah, Supervisora de Manufactura Bélica-->
+    <Text>
+      <GUID>1889000150</GUID>
+      <Text>Lieutenant Seo Jin-ah, Supervisora de Manufactura Bélica</Text>
+    </Text>
+    <Text>
+      <GUID>1889000151</GUID>
+      <Text>Seo Jin-ah gestiona la producción de armas y dinamita con precisión contable.En sus fábricas, la destrucción se planifica antes de ser ejecutada. Cada lote cumple estándares estrictos de potencia y fiabilidad.Los errores no se corrigen: se eliminan.</Text>
+    </Text>
+    <!-- START SPECIALIST- Oficial Kang Mi-sun, Directora de Raciones Normalizadas -->
+    <Text>
+      <GUID>1889000152</GUID>
+      <Text>Oficial Kang Mi-sun, Directora de Raciones Normalizadas</Text>
+    </Text>
+    <Text>
+      <GUID>1889000153</GUID>
+      <Text>Kang Mi-sun administra la alimentación como un recurso táctico, no como una necesidad humana. Las raciones se calculan para mantener la función, no el bienestar.Bajo su control, el exceso desaparece y el hambre se vuelve una variable aceptable. El sabor se considera una distracción improductiva.</Text>
+    </Text>
+    <!-- START SPECIALIST- Captain Bae Hye-jin, Supervisora de Explotación Costera -->
+    <Text>
+      <GUID>1889000154</GUID>
+      <Text>Capitana Bae Hye-jin, Supervisora de Explotación Costera</Text>
+    </Text>
+    <Text>
+      <GUID>1889000155</GUID>
+      <Text>Bae Hye-jin supervisa la producción industrial costera como un territorio bajo vigilancia constante; cada muelle, pala o red forma parte del aparato estatal de abastecimiento. La abundancia se interpreta como el triunfo de la nación y la escasez como la pereza de los trabajadores.</Text>
+    </Text>
+    <!-- START SPECIALIST- Dr. Heinrich Volkmann, Experto en Sedación-->
+    <Text>
+      <GUID>1889000130</GUID>
+      <Text>Dr. Heinrich Volkmann, Experto en Sedación</Text>
+    </Text>
+    <Text>
+      <GUID>1889000131</GUID>
+      <Text>Convencido de que la medicina debe priorizar la estabilidad y el control sobre la salud, Volkmann introdujo el concepto de sedación en la medicina farmacológica. Para él, la enfermedad no es el verdadero enemigo, sino la imprevisibilidad; el dolor, la emoción y la disidencia son irregularidades bioquímicas que deben corregirse.</Text>
+    </Text>
+    <!-- START SPECIALIST- Programa Obligatorio de Distribución de Soylent Green -->
+    <Text>
+      <GUID>1889000171</GUID>
+      <Text>Programa Obligatorio de Distribución de Soylent Green</Text>
+    </Text>
+    <Text>
+      <GUID>1889000156</GUID>
+      <Text>Programa estatal de sustitución alimentaria P.O.D.S.G. Para la fuerza laboral. Establece el consumo obligatorio de alimentos de diseño inteligente destinados a maximizar el rendimiento biológico y reducir la dependencia de productos alimentarios tradicionales.</Text>
+    </Text>
+    <!-- START SPECIALIST- Dr. Arnold Kreutz, Comisionado de Producción de Biomasa -->
+    <Text>
+      <GUID>1889000183</GUID>
+      <Text>Dr. Arnold Kreutz, Comisionado de Producción de Biomasa</Text>
+    </Text>
+    <Text>
+      <GUID>1889000184</GUID>
+      <Text>Designado por el Ministerio de Abastecimiento, Kreutz supervisa las Plantas de Biomasa encargadas de la producción de algas para la industria alimentaria. Kreutz considera que la alimentación moderna es un asunto de control estadístico y no de preferencia individual.</Text>
+    </Text>
+    <!-- START SPECIALIST- Yuri Ivanovich Malenkov, Comisario de Extracción Estratégica-->
+    <Text>
+      <GUID>1889000191</GUID>
+      <Text>Yuri Ivanovich Malenkov, Comisario de Extracción Estratégica</Text>
+    </Text>
+    <Text>
+      <GUID>1889000192</GUID>
+      <Text>Formado en los institutos mineros del Estado, Malenkov fue destinado a supervisar la explotación de uranio y tungsteno como recursos críticos para el progreso industrial. Malenkov Considera que la seguridad individual es secundaria frente a las cuotas de producción asignadas.</Text>
+    </Text>
+    <!-- START SPECIALIST- Hildur Nýhlfjörð, ingeniera de dispositivos térmicos domésticos-->
+    <Text>
+      <GUID>1889000197</GUID>
+      <Text>Hildur Nýhlfjörð, ingeniera de dispositivos térmicos domésticos</Text>
+    </Text>
+    <Text>
+      <GUID>1889000198</GUID>
+      <Text>Desde muy joven, Hildur comprendió que el control del calor era una cuestión crítica en el clima frío de su Islandia natal. Después de desarrollar los primeros prototipos de las revolucionarias "Unidades de Infusión Térmica", fue nombrada ingeniera jefe de las fábricas que produjeron en masa su dispositivo.</Text>
+    </Text>
+     <!-- START SPECIALIST- Aiko Tsubaki, La Artesana de los Cerezos-->
+    <Text>
+      <GUID>1889000202</GUID>
+      <Text>Aiko Tsubaki, La Artesana de los Cerezos</Text>
+    </Text>
+    <Text>
+      <GUID>1889000203</GUID>
+      <Text>Formada como maestra talladora de madera de cerezo, Aiko dedicó su vida a crear mecanismos delicados para relojes y juguetes de precisión y fina joyería en madera de cerezo. Con la expansión de la automatización a Japón, se vio obligado a usar sus técnicas artesanales en la industria tecnocrática.</Text>
+    </Text>
+    <!-- START SPECIALIST- Dr. Amadou Diallo, Supervisor de Producción de Autómatas-->
+    <Text>
+      <GUID>1889000207</GUID>
+      <Text>Dr. Amadou Diallo, Supervisor de Producción de Autómatas</Text>
+    </Text>
+    <Text>
+      <GUID>1889000208</GUID>
+      <Text>Formado en ingeniería mecánica y sistemas de producción en masa, Amadou ha dedicado su carrera al perfeccionamiento de prototipos de autómatas, priorizando la producción en serie. Para lograrlo, ha desarrollado métodos de ensamblaje secuencial que minimizan la intervención humana.</Text>
+    </Text>
+    <!-- START SPECIALIST- Excelsior Auto-Forge Synchronizer Supreme-->
+    <Text>
+      <GUID>1889000209</GUID>
+      <Text>Excelsior Auto-Forge Synchronizer Supreme</Text>
+    </Text>
+    <Text>
+      <GUID>1889000210</GUID>
+      <Text>Diseñado para integrar la fabricación de componentes mecánicos con el ensamblaje automatizado, el Auto-Forge Synchronizer Supreme coordina cada fase del proceso productivo con precisión absoluta. Su sistema de sincronización interna reduce tiempos muertos.</Text>
+    </Text>
+    <!-- START SPECIALIST- Ivana Petrović, Inspectora de Homologación Social-->
+    <Text>
+      <GUID>1889000230</GUID>
+      <Text>Ivana Petrović, Inspectora de Homologación Social</Text>
+    </Text>
+    <Text>
+      <GUID>1889000231</GUID>
+      <Text>Formada en administración técnica y evaluación de competencias, Ivana dedicó su carrera a diseñar sistemas de validación centralizada para la población. Considera que el conocimiento solo es útil cuando puede ser medido, clasificado y autorizado por una institución superior.</Text>
+    </Text>
+    <!-- START SPECIALIST- Dr. Alistair Bloom, Coordinador de Bienestar Sistémico-->
+    <Text>
+      <GUID>1889000232</GUID>
+      <Text>Dr. Alistair Bloom, Coordinador de Bienestar Sistémico</Text>
+    </Text>
+    <Text>
+      <GUID>1889000233</GUID>
+      <Text>Educado en medicina preventiva y psicología, Bloom orientó su carrera al desarrollo de tratamientos farmacológicos estandarizados, destinados a preservar la salud y la serenidad de la sociedad. Está convencido de que la felicidad es un estado que puede ser producido, dosificado y mantenido mediante protocolos.</Text>
+    </Text>
+    <!-- START SPECIALIST- Excelsior Civic-Optimizer Pro-->
+    <Text>
+      <GUID>1889000238</GUID>
+      <Text>Excelsior Civic-Optimizer Pro</Text>
+    </Text>
+    <Text>
+      <GUID>1889000239</GUID>
+      <Text>Módulo de gestión avanzada que amplifica el alcance de los servicios públicos tecnócratas, reduce la dotación humana necesaria y sustituye la administración local por control mecánico centralizado, a costa de un mayor consumo de recursos.</Text>
+    </Text>
+    <!-- START SPECIALIST- Capitána Sun Hye-rin, Ideóloga de la Propaganda Estatal-->
+    <Text>
+      <GUID>1889000245</GUID>
+      <Text>Capitána Sun Hye-rin, Ideóloga de la Propaganda Estatal</Text>
+    </Text>
+    <Text>
+      <GUID>1889000246</GUID>
+      <Text>Formada en propaganda y control de comunicaciones, Sun dirige las redes del Ministerio de Telecomunicaciones como si fueran un frente de batalla permanente. Bajo su mando, cada señal emitida es verificada, cada canal es supervisado y toda información no autorizada es neutralizada antes de alcanzar a la población.</Text>
+    </Text>
+    <!-- START SPECIALIST- Excelsior Omni-Drive Regulator-->
+    <Text>
+      <GUID>1889000247</GUID>
+      <Text>Excelsior Omni-Drive Regulator</Text>
+    </Text>
+    <Text>
+      <GUID>1889000248</GUID>
+      <Text>Integra control energético y sincronización mecánica en una sola unidad, elevando el rendimiento de las industrias mientras reduce significativamente la necesidad de operarios humanos. Al redistribuir potencia interna y estabilizar los ciclos de trabajo.</Text>
+    </Text>
+    <!-- START SPECIALIST- Coronel Mijail Zorin, Pionero de la Guerra Química-->
+    <Text>
+      <GUID>1889000254</GUID>
+      <Text>Coronel Mijail Zorin, Pionero de la Guerra Química</Text>
+    </Text>
+    <Text>
+      <GUID>1889000255</GUID>
+      <Text>Formado en ingeniería química militar y doctrina de disuasión total, Zorin dedica su carrera a perfeccionar la producción de agentes industriales concebidos tanto para el combate como para la pacificación interna. Sus métodos convierten cada planta química en un puesto avanzado del frente doméstico.</Text>
+    </Text>
+    <!-- START SPECIALIST- Dr. Marek Kowalczyk, Regulador de Conducta Doméstica-->
+    <Text>
+      <GUID>1889000284</GUID>
+      <Text>Dr. Marek Kowalczyk, Regulador de Conducta Doméstica</Text>
+    </Text>
+    <Text>
+      <GUID>1889000285</GUID>
+      <Text>Formado en estadística social y planificación urbana en los institutos estatales de Varsovia, el Dr. Kowalczyk desarrolló sistemas de estandarización residencial destinados a eliminar variaciones improductivas en la vida doméstica. Sus métodos maximizan la eficiencia humana.</Text>
+    </Text>
+    <!-- START SPECIALIST- Programa de Suplementación Alimentaria-->
+    <Text>
+      <GUID>1889000301</GUID>
+      <Text>Programa de Suplementación Alimentaria</Text>
+    </Text>
+    <Text>
+      <GUID>1889000302</GUID>
+      <Text>Un régimen cuidadosamente administrado de micronutrientes sintéticos garantiza que cada tecnócrata reciba exactamente lo necesario para mantener la salud, la claridad mental y una eficiencia constante. Las dosis diarias son distribuidas y supervisadas conforme a estrictos protocolos sanitarios.</Text>
+    </Text>
+    <!-- START SPECIALIST- Technician Corps-->
+    <Text>
+      <GUID>1889000307</GUID>
+      <Text>Technician Corps</Text>
+    </Text>
+    <Text>
+      <GUID>1889000308</GUID>
+      <Text>Un grupo de técnicos muy capaces, integrados en los sistemas productivos del Estado, desplegados allí donde la eficiencia debe ser garantizada sin cuestionamientos. Supervisan, ajustan y estandarizan cada etapa de producción con precisión metódica.</Text>
+    </Text>
+  </ModOp>
+</ModOps>
