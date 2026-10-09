@@ -1,7 +1,8 @@
 # A-Better-Tomorrow
 A Better Tomorrow; A Dystopic Mod (Pre-alpha).
 This is a pre-alpha release; it is functional, but some models are missing, and I am not certain that every aspect of the mod works perfectly—use at your own risk.
-Due to platform restrictions, I cannot upload the file containing all the models, so if you want to use go on your own risk you need to add models ;)
+Due to file size restrictions, this is only the mod file itself, without the shared mods.
+Therefore, there is no download. ;)
 
 ##It adds:
 
