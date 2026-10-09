@@ -6,7 +6,7 @@ Therefore, there is no download. ;)
 
 ##It adds:
 
-A new tier (for now) the Technocrats, (in the future there will be a new one for the new world., along with all the services and needs associated with them.
+A new tier (for now) the Technocrats, (in the future there will be a new one for the new world) , along with all the services and needs associated with them.
 
 ###goods:
 
