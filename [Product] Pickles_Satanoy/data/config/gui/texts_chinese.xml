@@ -1,0 +1,124 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- START SPECIALIST - Roberta Bakewell, Meisterin der Domestizierung-->
+    <Text>
+      <GUID>1888999287</GUID>
+      <Text>Roberta Bakewell, Master of Domestication</Text>
+    </Text>
+    <Text>
+      <GUID>1888999288</GUID>
+      <Text>Bakewell is often assumed to understand the language of animals better than that of humans. But of course this is only half the story.</Text>
+    </Text>
+    <!-- END SPECIALIST - Roberta Bakewell, Meisterin der Domestizierung -->
+    <!-- START SPECIALIST - Alfreda Nobel, Hochqualifizierte Sprengstoffherstellerin-->
+    <Text>
+      <GUID>1888999289</GUID>
+      <Text>Alfreda Nobel, Highly Skilled Explosives Manufacturer</Text>
+    </Text>
+    <Text>
+      <GUID>1888999290</GUID>
+      <Text>For Nobel, quality means that her explosives detonate when they are supposed to. Not before and not after.</Text>
+    </Text>
+    <!-- END SPECIALIST - Alfreda Nobel, Hochqualifizierte Sprengstoffherstellerin -->
+    <!-- START SPECIALIST - Otto Nicolaus Deutz, Vater moderner Verbrennungsmotoren-->
+    <Text>
+      <GUID>1888999291</GUID>
+      <Text>Otto Nicolaus Deutz, Father of the Modern Internal Combustion Engine</Text>
+    </Text>
+    <Text>
+      <GUID>1888999292</GUID>
+      <Text>It is thanks to Deutz's urge to research that there are vehicles and machines today that have more than one horsepower.</Text>
+    </Text>
+    <!-- END SPECIALIST - Otto Nicolaus Deutz, Vater moderner Verbrennungsmotoren-->
+    <!-- START SPECIALIST - Ludmilla Burberry, Fabrikantin edelster Stoffe-->
+    <Text>
+      <GUID>1888999293</GUID>
+      <Text>Ludmilla Burberry, Manufacturer of the Finest Fabrics</Text>
+    </Text>
+    <Text>
+      <GUID>1888999294</GUID>
+      <Text>Burberry has a special feel for the fibers of her fabrics and in her career she has woven together like every type of them, always with the most perplexing result for the Haute Couture.</Text>
+    </Text>
+    <!-- END SPECIALIST - Ludmilla Burberry, Fabrikantin edelster Stoffe-->
+    <!-- START SPECIALIST - Edison A. Thomas, Vorstand von Tungsram Inc. -->
+    <Text>
+      <GUID>1888999295</GUID>
+      <Text>Edison A. Thomas, Vorstand von Tungsram Inc.</Text>
+    </Text>
+    <Text>
+      <GUID>1888999296</GUID>
+      <Text>Thomas leads his international conglomerate of companies with an iron fist, always looking for new ways to exploit his clients and maximizing his personal profit share for his patented carbon filament, knowing that his technology is already outdated.</Text>
+    </Text>
+    <!-- END SPECIALIST - Edison A. Thomas, Vorstand von Tungsram Inc. -->
+    <!-- START SPECIALIST - Konrad Krupp, Champion der Gießerei -->
+    <Text>
+      <GUID>1888999297</GUID>
+      <Text>Konrad Krupp, Foundry Champion</Text>
+    </Text>
+    <Text>
+      <GUID>1888999298</GUID>
+      <Text>Krupp is not afraid of getting its own fingers dirty and often checks in person to what extent his steel products meet the highest quality standards.</Text>
+    </Text>
+    <!-- END SPECIALIST - Konrad Krupp, Champion der Gießerei -->
+    <!-- START SPECIALIST - Prinzessin Sibilla Camci, Meisterin der Reflektion -->
+    <Text>
+      <GUID>1888999299</GUID>
+      <Text>Princess Sibilla Camci, Master of Reflection</Text>
+    </Text>
+    <Text>
+      <GUID>1888999300</GUID>
+      <Text>Although princess Camci comes from a tradition-conscious and exceedingly conservative noble family of the eastern kingdoms, she has farsightedly recognized that only fair and equal treatment of workers can bring the best results.</Text>
+    </Text>
+    <!-- END SPECIALIST - Prinzessin Sibilla Camci, Meisterin der Reflektion -->
+    <!-- START SPECIALIST - Dr. Möbius Merk, Alchemist aus Überzeugung -->
+    <Text>
+      <GUID>1888999301</GUID>
+      <Text>Dr. Möbius Merk, Alchemist by Conviction</Text>
+    </Text>
+    <Text>
+      <GUID>1888999302</GUID>
+      <Text>Dr. Merk does not believe in the formulas of modern science but follows his very own instincts, firmly convinced that gold can be made from base metals. He is very close!</Text>
+    </Text>
+    <!-- END SPECIALIST - Dr. Möbius Merk, Alchemist aus Überzeugung -->
+    <!-- START SPECIALIST - Johannes Becker, Erster industrieller Müllermeister -->
+    <Text>
+      <GUID>1888999303</GUID>
+      <Text>Johannes Becker, First Industrial Master Miller</Text>
+    </Text>
+    <Text>
+      <GUID>1888999304</GUID>
+      <Text>With his revolutionary inventions, Becker played a decisive role in industrial food production.</Text>
+    </Text>
+    <!-- END SPECIALIST - Johannes Becker, Erster industrieller Müllermeister-->
+    <!-- START SPECIALIST - Juan-Franco de Esposito, Experte der Saccharose -->
+    <Text>
+      <GUID>1888999305</GUID>
+      <Text>Juan-Franco de Esposito, Sucrose Expert</Text>
+    </Text>
+    <Text>
+      <GUID>1888999306</GUID>
+      <Text>De Esposito has visited countless universities in the old world and has soaked up every knowledge of the processing and refining of various types of plants.</Text>
+    </Text>
+    <!-- END SPECIALIST - Juan-Franco de Esposito, Experte der Saccharose-->
+    <!-- START SPECIALIST - Otto van der Wiel, Abdecker aus Prinzip -->
+    <Text>
+      <GUID>1888999307</GUID>
+      <Text>Otto van der Wiel, Bone Crusher by Principle</Text>
+    </Text>
+    <Text>
+      <GUID>1888999308</GUID>
+      <Text>Van der Wiel sees himself as the most important cog in the food chain, because at the end of the day someone has to lead the remains to a higher purpose.</Text>
+    </Text>
+    <!-- END SPECIALIST - Otto van der Wiel, Abdecker aus Prinzip-->
+    <!-- START SPECIALIST - Helmuth Sauerbruch, The Molecular Whisperer-->
+    <Text>
+      <GUID>1888999311</GUID>
+      <Text>Helmuth Sauerbruch, The Molecular Whisperer</Text>
+    </Text>
+    <Text>
+      <GUID>1888999312</GUID>
+      <Text>Sauerbruch never trusted charts nor textbooks. Instead, he listens—quite literally—to the fumes, the hisses, the pulses of his vats. He says chemistry talks to those willing to inhale its secrets.</Text>
+    </Text>
+    <!-- END SPECIALIST - Helmuth Sauerbruch, The Molecular Whisperer-->
+  </ModOp>
+</ModOps>
