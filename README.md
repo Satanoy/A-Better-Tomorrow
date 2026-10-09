@@ -8,6 +8,7 @@ Due to platform restrictions, I cannot upload the file containing all the models
 A new tier (for now) the Technocrats, (in the future there will be a new one for the new world., along with all the services and needs associated with them.
 
 ###goods:
+
 -Military Gear. <img width="20" height="20" alt="military gear" src="https://github.com/user-attachments/assets/55a40117-03ba-4433-86f6-4d96675c2c98" />
 
 -Atomata parts. <img width="20" height="20" alt="automat parts" src="https://github.com/user-attachments/assets/107805c0-7aad-45de-b284-95a2611ec04e" />
